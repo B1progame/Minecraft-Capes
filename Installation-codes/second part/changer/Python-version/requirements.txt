@@ -1,0 +1,4 @@
+Pillow
+windows-curses
+opencv-python
+tk
